@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danil\\source\\repos\\ApiLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EFB728-C4B7-4BA6-A28F-05EA088B419D}|ApiLab\\ApiLab.csproj|c:\\users\\danil\\source\\repos\\apilab\\apilab\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0EFB728-C4B7-4BA6-A28F-05EA088B419D}|ApiLab\\ApiLab.csproj|solutionrelative:apilab\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EFB728-C4B7-4BA6-A28F-05EA088B419D}|ApiLab\\ApiLab.csproj|c:\\users\\danil\\source\\repos\\apilab\\apilab\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0EFB728-C4B7-4BA6-A28F-05EA088B419D}|ApiLab\\ApiLab.csproj|solutionrelative:apilab\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EFB728-C4B7-4BA6-A28F-05EA088B419D}|ApiLab\\ApiLab.csproj|c:\\users\\danil\\source\\repos\\apilab\\apilab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0EFB728-C4B7-4BA6-A28F-05EA088B419D}|ApiLab\\ApiLab.csproj|solutionrelative:apilab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\ApiLab\\ApiLab\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ApiLab\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\ApiLab\\ApiLab\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ApiLab\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA1wDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T11:32:42.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\ApiLab\\ApiLab\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ApiLab\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\ApiLab\\ApiLab\\Models\\Product.cs",
+              "RelativeToolTip": "ApiLab\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T11:32:19.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\ApiLab\\ApiLab\\Program.cs",
+              "RelativeDocumentMoniker": "ApiLab\\Program.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\ApiLab\\ApiLab\\Program.cs",
+              "RelativeToolTip": "ApiLab\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T11:30:20.319Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
