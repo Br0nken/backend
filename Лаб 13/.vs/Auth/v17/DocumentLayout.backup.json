@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danil\\source\\repos\\Auth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4061E4-AA68-4ADD-A3C2-37A842B5959F}|Auth\\Auth.csproj|c:\\users\\danil\\source\\repos\\auth\\auth\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C4061E4-AA68-4ADD-A3C2-37A842B5959F}|Auth\\Auth.csproj|solutionrelative:auth\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4061E4-AA68-4ADD-A3C2-37A842B5959F}|Auth\\Auth.csproj|c:\\users\\danil\\source\\repos\\auth\\auth\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C4061E4-AA68-4ADD-A3C2-37A842B5959F}|Auth\\Auth.csproj|solutionrelative:auth\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4061E4-AA68-4ADD-A3C2-37A842B5959F}|Auth\\Auth.csproj|c:\\users\\danil\\source\\repos\\auth\\auth\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C4061E4-AA68-4ADD-A3C2-37A842B5959F}|Auth\\Auth.csproj|solutionrelative:auth\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4061E4-AA68-4ADD-A3C2-37A842B5959F}|Auth\\Auth.csproj|c:\\users\\danil\\source\\repos\\auth\\auth\\views\\home\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C4061E4-AA68-4ADD-A3C2-37A842B5959F}|Auth\\Auth.csproj|solutionrelative:auth\\views\\home\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4061E4-AA68-4ADD-A3C2-37A842B5959F}|Auth\\Auth.csproj|c:\\users\\danil\\source\\repos\\auth\\auth\\views\\home\\contentmanagement.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C4061E4-AA68-4ADD-A3C2-37A842B5959F}|Auth\\Auth.csproj|solutionrelative:auth\\views\\home\\contentmanagement.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4061E4-AA68-4ADD-A3C2-37A842B5959F}|Auth\\Auth.csproj|c:\\users\\danil\\source\\repos\\auth\\auth\\views\\home\\admindashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C4061E4-AA68-4ADD-A3C2-37A842B5959F}|Auth\\Auth.csproj|solutionrelative:auth\\views\\home\\admindashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4061E4-AA68-4ADD-A3C2-37A842B5959F}|Auth\\Auth.csproj|c:\\users\\danil\\source\\repos\\auth\\auth\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C4061E4-AA68-4ADD-A3C2-37A842B5959F}|Auth\\Auth.csproj|solutionrelative:auth\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4061E4-AA68-4ADD-A3C2-37A842B5959F}|Auth\\Auth.csproj|c:\\users\\danil\\source\\repos\\auth\\auth\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C4061E4-AA68-4ADD-A3C2-37A842B5959F}|Auth\\Auth.csproj|solutionrelative:auth\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4061E4-AA68-4ADD-A3C2-37A842B5959F}|Auth\\Auth.csproj|c:\\users\\danil\\source\\repos\\auth\\auth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C4061E4-AA68-4ADD-A3C2-37A842B5959F}|Auth\\Auth.csproj|solutionrelative:auth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4061E4-AA68-4ADD-A3C2-37A842B5959F}|Auth\\Auth.csproj|c:\\users\\danil\\source\\repos\\auth\\auth\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C4061E4-AA68-4ADD-A3C2-37A842B5959F}|Auth\\Auth.csproj|solutionrelative:auth\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4061E4-AA68-4ADD-A3C2-37A842B5959F}|Auth\\Auth.csproj|c:\\users\\danil\\source\\repos\\auth\\auth\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C4061E4-AA68-4ADD-A3C2-37A842B5959F}|Auth\\Auth.csproj|solutionrelative:auth\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4061E4-AA68-4ADD-A3C2-37A842B5959F}|Auth\\Auth.csproj|c:\\users\\danil\\source\\repos\\auth\\auth\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C4061E4-AA68-4ADD-A3C2-37A842B5959F}|Auth\\Auth.csproj|solutionrelative:auth\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4061E4-AA68-4ADD-A3C2-37A842B5959F}|Auth\\Auth.csproj|c:\\users\\danil\\source\\repos\\auth\\auth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6C4061E4-AA68-4ADD-A3C2-37A842B5959F}|Auth\\Auth.csproj|solutionrelative:auth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Auth\\Auth\\Views\\Home\\Profile.cshtml",
+              "RelativeDocumentMoniker": "Auth\\Views\\Home\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Auth\\Auth\\Views\\Home\\Profile.cshtml",
+              "RelativeToolTip": "Auth\\Views\\Home\\Profile.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowCIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-17T18:05:55.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContentManagement.cshtml",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Auth\\Auth\\Views\\Home\\ContentManagement.cshtml",
+              "RelativeDocumentMoniker": "Auth\\Views\\Home\\ContentManagement.cshtml",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Auth\\Auth\\Views\\Home\\ContentManagement.cshtml",
+              "RelativeToolTip": "Auth\\Views\\Home\\ContentManagement.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-17T18:05:32.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminDashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Auth\\Auth\\Views\\Home\\AdminDashboard.cshtml",
+              "RelativeDocumentMoniker": "Auth\\Views\\Home\\AdminDashboard.cshtml",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Auth\\Auth\\Views\\Home\\AdminDashboard.cshtml",
+              "RelativeToolTip": "Auth\\Views\\Home\\AdminDashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-17T18:05:04.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Auth\\Auth\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Auth\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Auth\\Auth\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Auth\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-17T17:59:38.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Auth\\Auth\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Auth\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Auth\\Auth\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Auth\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-17T17:23:19.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Auth\\Auth\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Auth\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Auth\\Auth\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Auth\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T17:23:09.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Auth\\Auth\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Auth\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Auth\\Auth\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "Auth\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-17T17:15:43.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Auth\\Auth\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Auth\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Auth\\Auth\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Auth\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-17T17:15:20.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Auth\\Auth\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Auth\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Auth\\Auth\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Auth\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:55:28.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Auth\\Auth\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Auth\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Auth\\Auth\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Auth\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:41:23.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Auth\\Auth\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "Auth\\Data\\SeedData.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Auth\\Auth\\Data\\SeedData.cs",
+              "RelativeToolTip": "Auth\\Data\\SeedData.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAYwDkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:40:40.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Auth\\Auth\\appsettings.json",
+              "RelativeDocumentMoniker": "Auth\\appsettings.json",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Auth\\Auth\\appsettings.json",
+              "RelativeToolTip": "Auth\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-17T14:56:59.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Auth\\Auth\\Program.cs",
+              "RelativeDocumentMoniker": "Auth\\Program.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Auth\\Auth\\Program.cs",
+              "RelativeToolTip": "Auth\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAUwEQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T14:52:07.005Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

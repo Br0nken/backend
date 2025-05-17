@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Privacy Policy";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div class="alert alert-info">
+    @if (User.IsInRole("Admin"))
+    {
+        <p>As an Admin, you have full access to this privacy information.</p>
+    }
+    else if (User.IsInRole("Editor"))
+    {
+        <p>As an Editor, you have most access to this privacy information.</p>
+    }
+    else if (User.Identity?.IsAuthenticated ?? false)
+    {
+        <p>As a registered user, you have basic access to this privacy information.</p>
+    }
+
+    <p>This is our privacy policy. Only authenticated users can see this page.</p>
+</div>

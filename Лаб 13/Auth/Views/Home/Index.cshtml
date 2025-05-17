@@ -1,0 +1,45 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+
+    @if (!SignInManager.IsSignedIn(User))
+    {
+        <div class="alert alert-warning">
+            <p>You are not logged in. Please <a asp-area="Identity" asp-page="/Account/Login">login</a> or <a asp-area="Identity" asp-page="/Account/Register">register</a>.</p>
+        </div>
+    }
+    else
+    {
+        <div class="alert alert-success">
+            <p>Hello, @User.Identity?.Name!</p>
+
+            @if (User.IsInRole("Admin"))
+            {
+                <p>You have <strong>Admin</strong> privileges!</p>
+                <a asp-action="AdminDashboard" class="btn btn-danger">Admin Dashboard</a>
+            }
+            else if (User.IsInRole("Editor"))
+            {
+                <p>You have <strong>Editor</strong> privileges!</p>
+            }
+            else
+            {
+                <p>You are a regular user.</p>
+            }
+
+            <a asp-action="Profile" class="btn btn-primary">Your Profile</a>
+
+            @if (User.IsInRole("Editor") || User.IsInRole("Admin"))
+            {
+                <a asp-action="ContentManagement" class="btn btn-secondary">Content Management</a>
+            }
+        </div>
+    }
+</div>

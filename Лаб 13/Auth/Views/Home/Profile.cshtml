@@ -1,0 +1,35 @@
+﻿@{
+    ViewData["Title"] = "User Profile";
+}
+
+<div class="container">
+    <h1 class="display-4">User Profile</h1>
+
+    <div class="alert alert-info">
+        <h3>Profile Information</h3>
+
+        <dl class="row">
+            <dt class="col-sm-3">Username:</dt>
+            <dd class="col-sm-9">@User.Identity?.Name</dd>
+
+            <dt class="col-sm-3">Roles:</dt>
+            <dd class="col-sm-9">
+                @if (User.IsInRole("Admin"))
+                {
+                    <span class="badge bg-danger">Admin</span>
+                }
+                @if (User.IsInRole("Editor"))
+                {
+                    <span class="badge bg-warning">Editor</span>
+                }
+                @if (User.IsInRole("User"))
+                {
+                    <span class="badge bg-primary">User</span>
+                }
+            </dd>
+        </dl>
+
+        <a href="#" class="btn btn-primary">Edit Profile</a>
+        <a href="#" class="btn btn-secondary">Change Password</a>
+    </div>
+</div>
