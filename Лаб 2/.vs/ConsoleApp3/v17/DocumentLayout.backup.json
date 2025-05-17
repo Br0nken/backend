@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danil\\source\\repos\\ConsoleApp3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94067EC0-59E8-4F51-B52B-E3A8B069BECF}|ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\danil\\source\\repos\\consoleapp3\\consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94067EC0-59E8-4F51-B52B-E3A8B069BECF}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94067EC0-59E8-4F51-B52B-E3A8B069BECF}|ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\danil\\source\\repos\\consoleapp3\\consoleapp3\\loggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94067EC0-59E8-4F51-B52B-E3A8B069BECF}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\loggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94067EC0-59E8-4F51-B52B-E3A8B069BECF}|ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\danil\\source\\repos\\consoleapp3\\consoleapp3\\iloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94067EC0-59E8-4F51-B52B-E3A8B069BECF}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\iloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoggerService.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\ConsoleApp3\\ConsoleApp3\\LoggerService.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\LoggerService.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\ConsoleApp3\\ConsoleApp3\\LoggerService.cs",
+              "RelativeToolTip": "ConsoleApp3\\LoggerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T14:15:01.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ILoggerService.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\ConsoleApp3\\ConsoleApp3\\ILoggerService.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\ILoggerService.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\ConsoleApp3\\ConsoleApp3\\ILoggerService.cs",
+              "RelativeToolTip": "ConsoleApp3\\ILoggerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T14:13:36.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\ConsoleApp3\\ConsoleApp3\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\Program.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\ConsoleApp3\\ConsoleApp3\\Program.cs",
+              "RelativeToolTip": "ConsoleApp3\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T14:06:30.435Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
