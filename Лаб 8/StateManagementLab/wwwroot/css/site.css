@@ -1,0 +1,67 @@
+html[data-bs-theme="dark"] {
+    color-scheme: dark;
+}
+
+/* Базовые стили */
+:root {
+    --text-color: #212529;
+    --bg-color: #ffffff;
+    --primary-color: #258cfb;
+    --border-color: #ced4da;
+    --navbar-bg: #ffffff;
+    --footer-bg: #f8f9fa;
+    --footer-text: #6c757d;
+}
+
+/* Темная тема */
+[data-bs-theme="dark"] {
+    --text-color: #f8f9fa;
+    --bg-color: #212529;
+    --primary-color: #3da5ff;
+    --border-color: #495057;
+    --navbar-bg: #343a40;
+    --footer-bg: #343a40;
+    --footer-text: #f8f9fa;
+}
+
+/* Общие стили */
+body {
+    color: var(--text-color);
+    background-color: var(--bg-color);
+    transition: all 0.3s ease;
+}
+
+/* Навигация */
+.navbar {
+    background-color: var(--navbar-bg) !important;
+    border-color: var(--border-color);
+}
+
+.nav-link {
+    color: var(--text-color) !important;
+}
+
+/* Формы */
+.form-control, .form-select {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    border-color: var(--border-color);
+}
+
+/* Кнопки */
+.btn-outline-secondary {
+    color: var(--text-color);
+    border-color: var(--border-color);
+}
+
+/* Подвал */
+.footer {
+    background-color: var(--footer-bg);
+    color: var(--footer-text);
+}
+
+/* Контейнер */
+.container {
+    color: var(--text-color);
+    background-color: var(--bg-color);
+}

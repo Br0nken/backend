@@ -1,0 +1,21 @@
+﻿@{
+    ViewData["Title"] = "Управление темами";
+}
+
+<div class="container">
+    <h1>Управление темами</h1>
+
+    <form asp-action="SetTheme" method="post">
+        <select name="theme" class="form-control">
+            <option value="light" selected="@(ViewBag.CurrentTheme == "light")">Светлая</option>
+            <option value="dark" selected="@(ViewBag.CurrentTheme == "dark")">Тёмная</option>
+        </select>
+        <button type="submit" class="btn btn-primary">Применить</button>
+    </form>
+
+    <div class="theme-info mt-3">
+        <h3>Текущая тема: <strong>@ViewBag.CurrentTheme</strong></h3>
+        <p>Куки: @(Context.Request.Cookies["Theme"] ?? "не установлено")</p>
+        <p>Сессия: @(Context.Session.GetString("Theme") ?? "не установлено")</p>
+    </div>
+</div>

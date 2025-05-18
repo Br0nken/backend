@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danil\\source\\repos\\StateManagementLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5D009E-D4A7-4F5C-8DB5-1AC1867547D4}|StateManagementLab\\StateManagementLab.csproj|c:\\users\\danil\\source\\repos\\statemanagementlab\\statemanagementlab\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9B5D009E-D4A7-4F5C-8DB5-1AC1867547D4}|StateManagementLab\\StateManagementLab.csproj|solutionrelative:statemanagementlab\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5D009E-D4A7-4F5C-8DB5-1AC1867547D4}|StateManagementLab\\StateManagementLab.csproj|c:\\users\\danil\\source\\repos\\statemanagementlab\\statemanagementlab\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5D009E-D4A7-4F5C-8DB5-1AC1867547D4}|StateManagementLab\\StateManagementLab.csproj|solutionrelative:statemanagementlab\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5D009E-D4A7-4F5C-8DB5-1AC1867547D4}|StateManagementLab\\StateManagementLab.csproj|c:\\users\\danil\\source\\repos\\statemanagementlab\\statemanagementlab\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B5D009E-D4A7-4F5C-8DB5-1AC1867547D4}|StateManagementLab\\StateManagementLab.csproj|solutionrelative:statemanagementlab\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5D009E-D4A7-4F5C-8DB5-1AC1867547D4}|StateManagementLab\\StateManagementLab.csproj|c:\\users\\danil\\source\\repos\\statemanagementlab\\statemanagementlab\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B5D009E-D4A7-4F5C-8DB5-1AC1867547D4}|StateManagementLab\\StateManagementLab.csproj|solutionrelative:statemanagementlab\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5D009E-D4A7-4F5C-8DB5-1AC1867547D4}|StateManagementLab\\StateManagementLab.csproj|c:\\users\\danil\\source\\repos\\statemanagementlab\\statemanagementlab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5D009E-D4A7-4F5C-8DB5-1AC1867547D4}|StateManagementLab\\StateManagementLab.csproj|solutionrelative:statemanagementlab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\StateManagementLab\\StateManagementLab\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StateManagementLab\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\StateManagementLab\\StateManagementLab\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StateManagementLab\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwEEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-18T21:04:15.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\StateManagementLab\\StateManagementLab\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "StateManagementLab\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\StateManagementLab\\StateManagementLab\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "StateManagementLab\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-18T21:02:52.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\StateManagementLab\\StateManagementLab\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "StateManagementLab\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\StateManagementLab\\StateManagementLab\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "StateManagementLab\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-18T20:48:11.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\StateManagementLab\\StateManagementLab\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StateManagementLab\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\StateManagementLab\\StateManagementLab\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StateManagementLab\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T20:47:31.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\StateManagementLab\\StateManagementLab\\Program.cs",
+              "RelativeDocumentMoniker": "StateManagementLab\\Program.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\StateManagementLab\\StateManagementLab\\Program.cs",
+              "RelativeToolTip": "StateManagementLab\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T20:47:13.525Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
