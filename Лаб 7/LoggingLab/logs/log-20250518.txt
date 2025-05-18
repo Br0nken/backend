@@ -1,0 +1,318 @@
+2025-05-18 17:44:05.557 +03:00 [INF] User profile is available. Using 'C:\Users\danil\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-05-18 17:44:06.474 +03:00 [INF] Now listening on: https://localhost:7028
+2025-05-18 17:44:06.479 +03:00 [INF] Now listening on: http://localhost:5296
+2025-05-18 17:44:06.596 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-05-18 17:44:06.600 +03:00 [INF] Hosting environment: Development
+2025-05-18 17:44:06.603 +03:00 [INF] Content root path: C:\Users\danil\source\repos\LoggingLab\LoggingLab
+2025-05-18 17:44:08.251 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7028/ - null null
+2025-05-18 17:44:08.745 +03:00 [INF] Executing endpoint 'HomeController.Index (LoggingLab)'
+2025-05-18 17:44:08.852 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller HomeController (LoggingLab).
+2025-05-18 17:44:08.862 +03:00 [INF] Посещение главной страницы
+2025-05-18 17:44:08.865 +03:00 [WRN] Это тестовое предупреждение!
+2025-05-18 17:44:09.021 +03:00 [ERR] Произошла ошибка
+System.Exception: Исключение для теста логирования
+   at HomeController.Index() in C:\Users\danil\source\repos\LoggingLab\LoggingLab\Controllers\HomeController.cs:line 19
+2025-05-18 17:44:09.164 +03:00 [INF] Executing ViewResult, running view Index.
+2025-05-18 17:44:09.485 +03:00 [INF] Executed ViewResult - view Index executed in 330.2528ms.
+2025-05-18 17:44:09.495 +03:00 [INF] Executed action HomeController.Index (LoggingLab) in 639.2094ms
+2025-05-18 17:44:09.496 +03:00 [INF] Executed endpoint 'HomeController.Index (LoggingLab)'
+2025-05-18 17:44:09.507 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7028/ - 200 null text/html; charset=utf-8 1274.5308ms
+2025-05-18 17:44:09.617 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7028/lib/bootstrap/dist/css/bootstrap.min.css - null null
+2025-05-18 17:44:09.617 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7028/LoggingLab.styles.css?v=xN9bqudraq9PRcVcikQ5YK10esIjKOTZIOvLzGiBeCM - null null
+2025-05-18 17:44:09.617 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7028/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - null null
+2025-05-18 17:44:09.729 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 17:44:09.729 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 17:44:09.729 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 17:44:09.775 +03:00 [INF] Sending file. Request path: 'css/site.css'. Physical path: 'C:\Users\danil\source\repos\LoggingLab\LoggingLab\obj\Debug\net9.0\compressed\j5goii0eh1-b9sayid5wm.gz'
+2025-05-18 17:44:09.775 +03:00 [INF] Sending file. Request path: 'LoggingLab.styles.css'. Physical path: 'C:\Users\danil\source\repos\LoggingLab\LoggingLab\obj\Debug\net9.0\compressed\xb9aujbvn6-4s5imjne3z.gz'
+2025-05-18 17:44:09.784 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 17:44:09.801 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 17:44:09.811 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7028/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - 200 700 text/css 194.3239ms
+2025-05-18 17:44:09.818 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7028/LoggingLab.styles.css?v=xN9bqudraq9PRcVcikQ5YK10esIjKOTZIOvLzGiBeCM - 200 1161 text/css 201.2362ms
+2025-05-18 17:44:09.831 +03:00 [INF] Sending file. Request path: 'lib/bootstrap/dist/css/bootstrap.min.css'. Physical path: 'C:\Users\danil\source\repos\LoggingLab\LoggingLab\obj\Debug\net9.0\compressed\gbw94u6n0n-46ein0sx1k.gz'
+2025-05-18 17:44:09.839 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7028/lib/jquery/dist/jquery.min.js - null null
+2025-05-18 17:44:09.841 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7028/lib/bootstrap/dist/js/bootstrap.bundle.min.js - null null
+2025-05-18 17:44:09.872 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 17:44:09.889 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 17:44:09.893 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 17:44:09.894 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7028/lib/bootstrap/dist/css/bootstrap.min.css - 200 232871 text/css 278.1075ms
+2025-05-18 17:44:09.903 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7028/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - null null
+2025-05-18 17:44:09.950 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 17:44:09.955 +03:00 [INF] Sending file. Request path: 'js/site.js'. Physical path: 'C:\Users\danil\source\repos\LoggingLab\LoggingLab\obj\Debug\net9.0\compressed\o54zke4qiw-xtxxf3hu2r.gz'
+2025-05-18 17:44:09.969 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 17:44:09.977 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7028/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - 200 264 text/javascript 74.0963ms
+2025-05-18 17:44:09.983 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7028/_framework/aspnetcore-browser-refresh.js - null null
+2025-05-18 17:44:10.005 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7028/_framework/aspnetcore-browser-refresh.js - 200 16505 application/javascript; charset=utf-8 21.5703ms
+2025-05-18 17:44:10.011 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7028/_vs/browserLink - null null
+2025-05-18 17:44:10.068 +03:00 [INF] Sending file. Request path: 'lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'C:\Users\danil\source\repos\LoggingLab\LoggingLab\obj\Debug\net9.0\compressed\lg2dqeqbmo-493y06b0oq.gz'
+2025-05-18 17:44:10.077 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 17:44:10.087 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7028/lib/bootstrap/dist/js/bootstrap.bundle.min.js - 200 80764 text/javascript 245.9827ms
+2025-05-18 17:44:10.113 +03:00 [INF] Sending file. Request path: 'lib/jquery/dist/jquery.min.js'. Physical path: 'C:\Users\danil\source\repos\LoggingLab\LoggingLab\obj\Debug\net9.0\compressed\zkxa0lrz4y-o1o13a6vjx.gz'
+2025-05-18 17:44:10.118 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 17:44:10.131 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7028/lib/jquery/dist/jquery.min.js - 200 87576 text/javascript 291.8279ms
+2025-05-18 17:44:10.146 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7028/_vs/browserLink - 200 null text/javascript; charset=UTF-8 134.7481ms
+2025-05-18 17:44:10.332 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7028/favicon.ico - null null
+2025-05-18 17:44:10.338 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 17:44:10.361 +03:00 [INF] Sending file. Request path: 'favicon.ico'. Physical path: 'C:\Users\danil\source\repos\LoggingLab\LoggingLab\obj\Debug\net9.0\compressed\bxm8x7wc1x-61n19gt1b8.gz'
+2025-05-18 17:44:10.371 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 17:44:10.374 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7028/favicon.ico - 200 5463 image/x-icon 41.5511ms
+2025-05-18 17:44:26.569 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7028/ - null null
+2025-05-18 17:44:26.586 +03:00 [INF] Executing endpoint 'HomeController.Index (LoggingLab)'
+2025-05-18 17:44:26.592 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller HomeController (LoggingLab).
+2025-05-18 17:44:26.601 +03:00 [INF] Посещение главной страницы
+2025-05-18 17:44:26.605 +03:00 [WRN] Это тестовое предупреждение!
+2025-05-18 17:44:26.704 +03:00 [ERR] Произошла ошибка
+System.Exception: Исключение для теста логирования
+   at HomeController.Index() in C:\Users\danil\source\repos\LoggingLab\LoggingLab\Controllers\HomeController.cs:line 19
+2025-05-18 17:44:26.712 +03:00 [INF] Executing ViewResult, running view Index.
+2025-05-18 17:44:26.723 +03:00 [INF] Executed ViewResult - view Index executed in 11.4276ms.
+2025-05-18 17:44:26.729 +03:00 [INF] Executed action HomeController.Index (LoggingLab) in 128.3825ms
+2025-05-18 17:44:26.740 +03:00 [INF] Executed endpoint 'HomeController.Index (LoggingLab)'
+2025-05-18 17:44:26.744 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7028/ - 200 null text/html; charset=utf-8 174.6261ms
+2025-05-18 17:44:26.805 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7028/lib/bootstrap/dist/css/bootstrap.min.css - null null
+2025-05-18 17:44:26.808 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7028/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - null null
+2025-05-18 17:44:26.810 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7028/lib/jquery/dist/jquery.min.js - null null
+2025-05-18 17:44:26.810 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7028/lib/bootstrap/dist/js/bootstrap.bundle.min.js - null null
+2025-05-18 17:44:26.808 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7028/LoggingLab.styles.css?v=xN9bqudraq9PRcVcikQ5YK10esIjKOTZIOvLzGiBeCM - null null
+2025-05-18 17:44:26.810 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7028/_framework/aspnetcore-browser-refresh.js - null null
+2025-05-18 17:44:26.810 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7028/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - null null
+2025-05-18 17:44:26.939 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 17:44:26.941 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 17:44:26.954 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7028/_framework/aspnetcore-browser-refresh.js - 200 16505 application/javascript; charset=utf-8 144.4823ms
+2025-05-18 17:44:26.906 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 17:44:26.871 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 17:44:26.983 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 17:44:26.871 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7028/_vs/browserLink - null null
+2025-05-18 17:44:26.991 +03:00 [INF] Sending file. Request path: 'lib/jquery/dist/jquery.min.js'. Physical path: 'C:\Users\danil\source\repos\LoggingLab\LoggingLab\obj\Debug\net9.0\compressed\zkxa0lrz4y-o1o13a6vjx.gz'
+2025-05-18 17:44:27.087 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 17:44:27.016 +03:00 [INF] Sending file. Request path: 'LoggingLab.styles.css'. Physical path: 'C:\Users\danil\source\repos\LoggingLab\LoggingLab\obj\Debug\net9.0\compressed\xb9aujbvn6-4s5imjne3z.gz'
+2025-05-18 17:44:27.096 +03:00 [INF] Sending file. Request path: 'lib/bootstrap/dist/css/bootstrap.min.css'. Physical path: 'C:\Users\danil\source\repos\LoggingLab\LoggingLab\obj\Debug\net9.0\compressed\gbw94u6n0n-46ein0sx1k.gz'
+2025-05-18 17:44:27.061 +03:00 [INF] Sending file. Request path: 'css/site.css'. Physical path: 'C:\Users\danil\source\repos\LoggingLab\LoggingLab\obj\Debug\net9.0\compressed\j5goii0eh1-b9sayid5wm.gz'
+2025-05-18 17:44:27.094 +03:00 [INF] Sending file. Request path: 'js/site.js'. Physical path: 'C:\Users\danil\source\repos\LoggingLab\LoggingLab\obj\Debug\net9.0\compressed\o54zke4qiw-xtxxf3hu2r.gz'
+2025-05-18 17:44:27.112 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 17:44:27.116 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7028/_vs/browserLink - 200 null text/javascript; charset=UTF-8 244.8656ms
+2025-05-18 17:44:27.126 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 17:44:27.126 +03:00 [INF] Sending file. Request path: 'lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'C:\Users\danil\source\repos\LoggingLab\LoggingLab\obj\Debug\net9.0\compressed\lg2dqeqbmo-493y06b0oq.gz'
+2025-05-18 17:44:27.136 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 17:44:27.143 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 17:44:27.153 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 17:44:27.158 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7028/lib/jquery/dist/jquery.min.js - 200 87576 text/javascript 348.0712ms
+2025-05-18 17:44:27.171 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7028/LoggingLab.styles.css?v=xN9bqudraq9PRcVcikQ5YK10esIjKOTZIOvLzGiBeCM - 200 1161 text/css 362.5759ms
+2025-05-18 17:44:27.183 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 17:44:27.186 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7028/lib/bootstrap/dist/css/bootstrap.min.css - 200 232871 text/css 381.7296ms
+2025-05-18 17:44:27.190 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7028/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - 200 700 text/css 381.407ms
+2025-05-18 17:44:27.192 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7028/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - 200 264 text/javascript 381.9472ms
+2025-05-18 17:44:27.222 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7028/lib/bootstrap/dist/js/bootstrap.bundle.min.js - 200 80764 text/javascript 411.749ms
+2025-05-18 17:53:31.631 +03:00 [INF] User profile is available. Using 'C:\Users\danil\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-05-18 17:53:33.088 +03:00 [INF] Now listening on: https://localhost:7028
+2025-05-18 17:53:33.093 +03:00 [INF] Now listening on: http://localhost:5296
+2025-05-18 17:53:33.254 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-05-18 17:53:33.258 +03:00 [INF] Hosting environment: Development
+2025-05-18 17:53:33.261 +03:00 [INF] Content root path: C:\Users\danil\source\repos\LoggingLab\LoggingLab
+2025-05-18 17:53:34.604 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7028/ - null null
+2025-05-18 17:53:35.337 +03:00 [INF] Executing endpoint 'HomeController.Index (LoggingLab)'
+2025-05-18 17:53:35.674 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller HomeController (LoggingLab).
+2025-05-18 17:53:35.712 +03:00 [INF] Посещение главной страницы
+2025-05-18 17:53:35.740 +03:00 [WRN] Это тестовое предупреждение!
+2025-05-18 17:53:35.994 +03:00 [ERR] Ошибка при обработке запроса / пользователем Anonymous
+2025-05-18 17:53:36.049 +03:00 [INF] Executing ViewResult, running view Index.
+2025-05-18 17:53:36.663 +03:00 [INF] Executed ViewResult - view Index executed in 628.7363ms.
+2025-05-18 17:53:36.681 +03:00 [INF] Executed action HomeController.Index (LoggingLab) in 984.9984ms
+2025-05-18 17:53:36.694 +03:00 [INF] Executed endpoint 'HomeController.Index (LoggingLab)'
+2025-05-18 17:53:36.719 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7028/ - 200 null text/html; charset=utf-8 2131.9104ms
+2025-05-18 17:53:36.835 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7028/lib/bootstrap/dist/css/bootstrap.min.css - null null
+2025-05-18 17:53:36.835 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7028/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - null null
+2025-05-18 17:53:36.835 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7028/LoggingLab.styles.css?v=xN9bqudraq9PRcVcikQ5YK10esIjKOTZIOvLzGiBeCM - null null
+2025-05-18 17:53:36.991 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 17:53:36.991 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 17:53:36.991 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 17:53:37.050 +03:00 [INF] Sending file. Request path: 'LoggingLab.styles.css'. Physical path: 'C:\Users\danil\source\repos\LoggingLab\LoggingLab\obj\Debug\net9.0\compressed\xb9aujbvn6-4s5imjne3z.gz'
+2025-05-18 17:53:37.051 +03:00 [INF] Sending file. Request path: 'css/site.css'. Physical path: 'C:\Users\danil\source\repos\LoggingLab\LoggingLab\obj\Debug\net9.0\compressed\j5goii0eh1-b9sayid5wm.gz'
+2025-05-18 17:53:37.053 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 17:53:37.055 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 17:53:37.063 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7028/LoggingLab.styles.css?v=xN9bqudraq9PRcVcikQ5YK10esIjKOTZIOvLzGiBeCM - 200 1161 text/css 228.0471ms
+2025-05-18 17:53:37.065 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7028/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - 200 700 text/css 230.6014ms
+2025-05-18 17:53:37.077 +03:00 [INF] Sending file. Request path: 'lib/bootstrap/dist/css/bootstrap.min.css'. Physical path: 'C:\Users\danil\source\repos\LoggingLab\LoggingLab\obj\Debug\net9.0\compressed\gbw94u6n0n-46ein0sx1k.gz'
+2025-05-18 17:53:37.099 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 17:53:37.108 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7028/lib/bootstrap/dist/css/bootstrap.min.css - 200 232871 text/css 273.9759ms
+2025-05-18 17:53:37.230 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7028/lib/jquery/dist/jquery.min.js - null null
+2025-05-18 17:53:37.232 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7028/_framework/aspnetcore-browser-refresh.js - null null
+2025-05-18 17:53:37.232 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7028/lib/bootstrap/dist/js/bootstrap.bundle.min.js - null null
+2025-05-18 17:53:37.233 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7028/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - null null
+2025-05-18 17:53:37.233 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7028/_vs/browserLink - null null
+2025-05-18 17:53:37.257 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 17:53:37.263 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7028/_framework/aspnetcore-browser-refresh.js - 200 16505 application/javascript; charset=utf-8 30.0436ms
+2025-05-18 17:53:37.276 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 17:53:37.305 +03:00 [INF] Sending file. Request path: 'lib/jquery/dist/jquery.min.js'. Physical path: 'C:\Users\danil\source\repos\LoggingLab\LoggingLab\obj\Debug\net9.0\compressed\zkxa0lrz4y-o1o13a6vjx.gz'
+2025-05-18 17:53:37.277 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 17:53:37.310 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 17:53:37.313 +03:00 [INF] Sending file. Request path: 'lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'C:\Users\danil\source\repos\LoggingLab\LoggingLab\obj\Debug\net9.0\compressed\lg2dqeqbmo-493y06b0oq.gz'
+2025-05-18 17:53:37.324 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7028/lib/jquery/dist/jquery.min.js - 200 87576 text/javascript 94.509ms
+2025-05-18 17:53:37.325 +03:00 [INF] Sending file. Request path: 'js/site.js'. Physical path: 'C:\Users\danil\source\repos\LoggingLab\LoggingLab\obj\Debug\net9.0\compressed\o54zke4qiw-xtxxf3hu2r.gz'
+2025-05-18 17:53:37.335 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 17:53:37.353 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 17:53:37.356 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7028/lib/bootstrap/dist/js/bootstrap.bundle.min.js - 200 80764 text/javascript 123.8128ms
+2025-05-18 17:53:37.369 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7028/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - 200 264 text/javascript 136.9345ms
+2025-05-18 17:53:37.423 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7028/_vs/browserLink - 200 null text/javascript; charset=UTF-8 189.9395ms
+2025-05-18 18:02:18.659 +03:00 [INF] User profile is available. Using 'C:\Users\danil\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-05-18 18:02:19.723 +03:00 [INF] Now listening on: https://localhost:7028
+2025-05-18 18:02:19.728 +03:00 [INF] Now listening on: http://localhost:5296
+2025-05-18 18:02:19.873 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-05-18 18:02:19.921 +03:00 [INF] Hosting environment: Development
+2025-05-18 18:02:19.924 +03:00 [INF] Content root path: C:\Users\danil\source\repos\LoggingLab\LoggingLab
+2025-05-18 18:02:20.866 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7028/ - null null
+2025-05-18 18:02:21.385 +03:00 [INF] Executing endpoint 'HomeController.Index (LoggingLab)'
+2025-05-18 18:02:21.492 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller HomeController (LoggingLab).
+2025-05-18 18:02:21.515 +03:00 [INF] Данные успешно обработаны
+2025-05-18 18:02:21.519 +03:00 [INF] Страница загружена
+2025-05-18 18:02:21.545 +03:00 [INF] Executing ViewResult, running view Index.
+2025-05-18 18:02:21.766 +03:00 [INF] Executed ViewResult - view Index executed in 229.459ms.
+2025-05-18 18:02:21.777 +03:00 [INF] Executed action HomeController.Index (LoggingLab) in 272.8952ms
+2025-05-18 18:02:21.782 +03:00 [INF] Executed endpoint 'HomeController.Index (LoggingLab)'
+2025-05-18 18:02:21.794 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7028/ - 200 null text/html; charset=utf-8 961.8111ms
+2025-05-18 18:02:21.895 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7028/lib/bootstrap/dist/css/bootstrap.min.css - null null
+2025-05-18 18:02:21.895 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7028/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - null null
+2025-05-18 18:02:21.895 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7028/lib/jquery/dist/jquery.min.js - null null
+2025-05-18 18:02:21.895 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7028/LoggingLab.styles.css?v=xN9bqudraq9PRcVcikQ5YK10esIjKOTZIOvLzGiBeCM - null null
+2025-05-18 18:02:22.256 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 18:02:22.256 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 18:02:22.256 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 18:02:21.944 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7028/_framework/aspnetcore-browser-refresh.js - null null
+2025-05-18 18:02:21.952 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7028/lib/bootstrap/dist/js/bootstrap.bundle.min.js - null null
+2025-05-18 18:02:21.991 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7028/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - null null
+2025-05-18 18:02:22.285 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 18:02:22.075 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7028/_vs/browserLink - null null
+2025-05-18 18:02:22.405 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 18:02:22.409 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 18:02:22.413 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7028/_framework/aspnetcore-browser-refresh.js - 200 16505 application/javascript; charset=utf-8 470.2633ms
+2025-05-18 18:02:22.435 +03:00 [INF] Sending file. Request path: 'LoggingLab.styles.css'. Physical path: 'C:\Users\danil\source\repos\LoggingLab\LoggingLab\obj\Debug\net9.0\compressed\xb9aujbvn6-4s5imjne3z.gz'
+2025-05-18 18:02:22.436 +03:00 [INF] Sending file. Request path: 'css/site.css'. Physical path: 'C:\Users\danil\source\repos\LoggingLab\LoggingLab\obj\Debug\net9.0\compressed\j5goii0eh1-b9sayid5wm.gz'
+2025-05-18 18:02:22.436 +03:00 [INF] Sending file. Request path: 'js/site.js'. Physical path: 'C:\Users\danil\source\repos\LoggingLab\LoggingLab\obj\Debug\net9.0\compressed\o54zke4qiw-xtxxf3hu2r.gz'
+2025-05-18 18:02:22.437 +03:00 [INF] Sending file. Request path: 'lib/jquery/dist/jquery.min.js'. Physical path: 'C:\Users\danil\source\repos\LoggingLab\LoggingLab\obj\Debug\net9.0\compressed\zkxa0lrz4y-o1o13a6vjx.gz'
+2025-05-18 18:02:22.437 +03:00 [INF] Sending file. Request path: 'lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'C:\Users\danil\source\repos\LoggingLab\LoggingLab\obj\Debug\net9.0\compressed\lg2dqeqbmo-493y06b0oq.gz'
+2025-05-18 18:02:22.442 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 18:02:22.444 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 18:02:22.447 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 18:02:22.451 +03:00 [INF] Sending file. Request path: 'lib/bootstrap/dist/css/bootstrap.min.css'. Physical path: 'C:\Users\danil\source\repos\LoggingLab\LoggingLab\obj\Debug\net9.0\compressed\gbw94u6n0n-46ein0sx1k.gz'
+2025-05-18 18:02:22.454 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 18:02:22.454 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 18:02:22.457 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7028/LoggingLab.styles.css?v=xN9bqudraq9PRcVcikQ5YK10esIjKOTZIOvLzGiBeCM - 200 1161 text/css 562.4195ms
+2025-05-18 18:02:22.458 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7028/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - 200 700 text/css 563.7842ms
+2025-05-18 18:02:22.459 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7028/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - 200 264 text/javascript 500.673ms
+2025-05-18 18:02:22.461 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 18:02:22.465 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7028/lib/bootstrap/dist/js/bootstrap.bundle.min.js - 200 80764 text/javascript 518.4598ms
+2025-05-18 18:02:22.465 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7028/lib/jquery/dist/jquery.min.js - 200 87576 text/javascript 570.5723ms
+2025-05-18 18:02:22.486 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7028/_vs/browserLink - 200 null text/javascript; charset=UTF-8 411.4619ms
+2025-05-18 18:02:22.487 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7028/lib/bootstrap/dist/css/bootstrap.min.css - 200 232871 text/css 594.1071ms
+2025-05-18 18:02:22.690 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7028/favicon.ico - null null
+2025-05-18 18:02:22.697 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 18:02:22.702 +03:00 [INF] Sending file. Request path: 'favicon.ico'. Physical path: 'C:\Users\danil\source\repos\LoggingLab\LoggingLab\obj\Debug\net9.0\compressed\bxm8x7wc1x-61n19gt1b8.gz'
+2025-05-18 18:02:22.705 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 18:02:22.707 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7028/favicon.ico - 200 5463 image/x-icon 16.4984ms
+2025-05-18 18:07:17.050 +03:00 [INF] User profile is available. Using 'C:\Users\danil\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-05-18 18:07:18.027 +03:00 [INF] Now listening on: https://localhost:7028
+2025-05-18 18:07:18.032 +03:00 [INF] Now listening on: http://localhost:5296
+2025-05-18 18:07:18.142 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-05-18 18:07:18.146 +03:00 [INF] Hosting environment: Development
+2025-05-18 18:07:18.150 +03:00 [INF] Content root path: C:\Users\danil\source\repos\LoggingLab\LoggingLab
+2025-05-18 18:07:19.106 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7028/ - null null
+2025-05-18 18:07:19.489 +03:00 [INF] Executing endpoint 'LoggingLab.Controllers.HomeController.Index (LoggingLab)'
+2025-05-18 18:07:19.571 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller LoggingLab.Controllers.HomeController (LoggingLab).
+2025-05-18 18:07:19.649 +03:00 [INF] Посещение главной страницы
+2025-05-18 18:07:19.665 +03:00 [INF] INFO: Обработка данных начата
+2025-05-18 18:07:19.673 +03:00 [INF] INFO: Данные успешно обработаны
+2025-05-18 18:07:19.680 +03:00 [INF] Подключение к БД...
+2025-05-18 18:07:19.888 +03:00 [ERR] Ошибка БД
+System.TimeoutException: Таймаут подключения к серверу БД
+   at LoggingLab.Services.DatabaseService.Connect() in C:\Users\danil\source\repos\LoggingLab\LoggingLab\Services\DatabaseService.cs:line 29
+2025-05-18 18:07:19.983 +03:00 [INF] Executing ViewResult, running view Index.
+2025-05-18 18:07:20.341 +03:00 [INF] Executed ViewResult - view Index executed in 395.2088ms.
+2025-05-18 18:07:20.361 +03:00 [INF] Executed action LoggingLab.Controllers.HomeController.Index (LoggingLab) in 735.6698ms
+2025-05-18 18:07:20.370 +03:00 [INF] Executed endpoint 'LoggingLab.Controllers.HomeController.Index (LoggingLab)'
+2025-05-18 18:07:20.394 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7028/ - 200 null text/html; charset=utf-8 1302.7157ms
+2025-05-18 18:07:20.491 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7028/lib/bootstrap/dist/css/bootstrap.min.css - null null
+2025-05-18 18:07:20.505 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7028/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - null null
+2025-05-18 18:07:20.491 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7028/LoggingLab.styles.css?v=xN9bqudraq9PRcVcikQ5YK10esIjKOTZIOvLzGiBeCM - null null
+2025-05-18 18:07:20.491 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7028/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - null null
+2025-05-18 18:07:20.491 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7028/lib/jquery/dist/jquery.min.js - null null
+2025-05-18 18:07:20.505 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7028/lib/bootstrap/dist/js/bootstrap.bundle.min.js - null null
+2025-05-18 18:07:20.580 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7028/_framework/aspnetcore-browser-refresh.js - null null
+2025-05-18 18:07:20.596 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7028/_vs/browserLink - null null
+2025-05-18 18:07:20.907 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7028/_framework/aspnetcore-browser-refresh.js - 200 16505 application/javascript; charset=utf-8 331.2032ms
+2025-05-18 18:07:20.928 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7028/_vs/browserLink - 200 null text/javascript; charset=UTF-8 332.4721ms
+2025-05-18 18:07:20.995 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 18:07:21.043 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 18:07:21.068 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 18:07:21.166 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 18:07:21.171 +03:00 [INF] Sending file. Request path: 'LoggingLab.styles.css'. Physical path: 'C:\Users\danil\source\repos\LoggingLab\LoggingLab\obj\Debug\net9.0\compressed\xb9aujbvn6-4s5imjne3z.gz'
+2025-05-18 18:07:21.172 +03:00 [INF] Sending file. Request path: 'js/site.js'. Physical path: 'C:\Users\danil\source\repos\LoggingLab\LoggingLab\obj\Debug\net9.0\compressed\o54zke4qiw-xtxxf3hu2r.gz'
+2025-05-18 18:07:21.175 +03:00 [INF] Sending file. Request path: 'css/site.css'. Physical path: 'C:\Users\danil\source\repos\LoggingLab\LoggingLab\obj\Debug\net9.0\compressed\j5goii0eh1-b9sayid5wm.gz'
+2025-05-18 18:07:21.181 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 18:07:21.192 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 18:07:21.196 +03:00 [INF] Sending file. Request path: 'lib/bootstrap/dist/css/bootstrap.min.css'. Physical path: 'C:\Users\danil\source\repos\LoggingLab\LoggingLab\obj\Debug\net9.0\compressed\gbw94u6n0n-46ein0sx1k.gz'
+2025-05-18 18:07:21.196 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 18:07:21.202 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 18:07:21.212 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 18:07:21.216 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7028/LoggingLab.styles.css?v=xN9bqudraq9PRcVcikQ5YK10esIjKOTZIOvLzGiBeCM - 200 1161 text/css 724.9471ms
+2025-05-18 18:07:21.220 +03:00 [INF] Sending file. Request path: 'lib/jquery/dist/jquery.min.js'. Physical path: 'C:\Users\danil\source\repos\LoggingLab\LoggingLab\obj\Debug\net9.0\compressed\zkxa0lrz4y-o1o13a6vjx.gz'
+2025-05-18 18:07:21.231 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 18:07:21.235 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7028/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - 200 264 text/javascript 729.7172ms
+2025-05-18 18:07:21.240 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7028/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - 200 700 text/css 748.8847ms
+2025-05-18 18:07:21.250 +03:00 [INF] Sending file. Request path: 'lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'C:\Users\danil\source\repos\LoggingLab\LoggingLab\obj\Debug\net9.0\compressed\lg2dqeqbmo-493y06b0oq.gz'
+2025-05-18 18:07:21.267 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 18:07:21.272 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7028/lib/bootstrap/dist/css/bootstrap.min.css - 200 232871 text/css 781.125ms
+2025-05-18 18:07:21.304 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 18:07:21.308 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7028/lib/jquery/dist/jquery.min.js - 200 87576 text/javascript 816.9295ms
+2025-05-18 18:07:21.328 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7028/lib/bootstrap/dist/js/bootstrap.bundle.min.js - 200 80764 text/javascript 822.7577ms
+2025-05-18 18:09:43.106 +03:00 [INF] User profile is available. Using 'C:\Users\danil\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-05-18 18:09:43.866 +03:00 [INF] Now listening on: https://localhost:7028
+2025-05-18 18:09:43.870 +03:00 [INF] Now listening on: http://localhost:5296
+2025-05-18 18:09:43.948 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-05-18 18:09:43.953 +03:00 [INF] Hosting environment: Development
+2025-05-18 18:09:43.958 +03:00 [INF] Content root path: C:\Users\danil\source\repos\LoggingLab\LoggingLab
+2025-05-18 18:09:45.026 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7028/ - null null
+2025-05-18 18:09:45.480 +03:00 [INF] Executing endpoint 'HomeController.Index (LoggingLab)'
+2025-05-18 18:09:45.564 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller HomeController (LoggingLab).
+2025-05-18 18:09:45.587 +03:00 [INF] Данные успешно обработаны
+2025-05-18 18:09:45.593 +03:00 [INF] Страница загружена
+2025-05-18 18:09:45.598 +03:00 [WRN] Это тестовое предупреждение!
+2025-05-18 18:09:45.740 +03:00 [ERR] Ошибка при обработке запроса / пользователем Anonymous
+2025-05-18 18:09:45.775 +03:00 [INF] Executing ViewResult, running view Index.
+2025-05-18 18:09:46.089 +03:00 [INF] Executed ViewResult - view Index executed in 315.5154ms.
+2025-05-18 18:09:46.106 +03:00 [INF] Executed action HomeController.Index (LoggingLab) in 526.4081ms
+2025-05-18 18:09:46.113 +03:00 [INF] Executed endpoint 'HomeController.Index (LoggingLab)'
+2025-05-18 18:09:46.124 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7028/ - 200 null text/html; charset=utf-8 1114.0458ms
+2025-05-18 18:09:46.356 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7028/lib/bootstrap/dist/js/bootstrap.bundle.min.js - null null
+2025-05-18 18:09:46.357 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7028/lib/bootstrap/dist/css/bootstrap.min.css - null null
+2025-05-18 18:09:46.356 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7028/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - null null
+2025-05-18 18:09:46.357 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7028/LoggingLab.styles.css?v=xN9bqudraq9PRcVcikQ5YK10esIjKOTZIOvLzGiBeCM - null null
+2025-05-18 18:09:46.356 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7028/_framework/aspnetcore-browser-refresh.js - null null
+2025-05-18 18:09:46.357 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7028/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - null null
+2025-05-18 18:09:46.356 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7028/lib/jquery/dist/jquery.min.js - null null
+2025-05-18 18:09:46.456 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 18:09:46.456 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 18:09:46.460 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 18:09:46.456 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 18:09:46.384 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7028/_vs/browserLink - null null
+2025-05-18 18:09:46.530 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7028/_framework/aspnetcore-browser-refresh.js - 200 16505 application/javascript; charset=utf-8 174.1498ms
+2025-05-18 18:09:46.520 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 18:09:46.536 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 18:09:46.586 +03:00 [INF] Sending file. Request path: 'LoggingLab.styles.css'. Physical path: 'C:\Users\danil\source\repos\LoggingLab\LoggingLab\obj\Debug\net9.0\compressed\xb9aujbvn6-4s5imjne3z.gz'
+2025-05-18 18:09:46.587 +03:00 [INF] Sending file. Request path: 'css/site.css'. Physical path: 'C:\Users\danil\source\repos\LoggingLab\LoggingLab\obj\Debug\net9.0\compressed\j5goii0eh1-b9sayid5wm.gz'
+2025-05-18 18:09:46.587 +03:00 [INF] Sending file. Request path: 'js/site.js'. Physical path: 'C:\Users\danil\source\repos\LoggingLab\LoggingLab\obj\Debug\net9.0\compressed\o54zke4qiw-xtxxf3hu2r.gz'
+2025-05-18 18:09:46.589 +03:00 [INF] Sending file. Request path: 'lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'C:\Users\danil\source\repos\LoggingLab\LoggingLab\obj\Debug\net9.0\compressed\lg2dqeqbmo-493y06b0oq.gz'
+2025-05-18 18:09:46.599 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 18:09:46.601 +03:00 [INF] Sending file. Request path: 'lib/bootstrap/dist/css/bootstrap.min.css'. Physical path: 'C:\Users\danil\source\repos\LoggingLab\LoggingLab\obj\Debug\net9.0\compressed\gbw94u6n0n-46ein0sx1k.gz'
+2025-05-18 18:09:46.603 +03:00 [INF] Sending file. Request path: 'lib/jquery/dist/jquery.min.js'. Physical path: 'C:\Users\danil\source\repos\LoggingLab\LoggingLab\obj\Debug\net9.0\compressed\zkxa0lrz4y-o1o13a6vjx.gz'
+2025-05-18 18:09:46.607 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 18:09:46.617 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 18:09:46.628 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 18:09:46.632 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7028/LoggingLab.styles.css?v=xN9bqudraq9PRcVcikQ5YK10esIjKOTZIOvLzGiBeCM - 200 1161 text/css 275.6262ms
+2025-05-18 18:09:46.637 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 18:09:46.648 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7028/_vs/browserLink - 200 null text/javascript; charset=UTF-8 264.8418ms
+2025-05-18 18:09:46.649 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-18 18:09:46.658 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7028/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - 200 700 text/css 301.5156ms
+2025-05-18 18:09:46.664 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7028/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - 200 264 text/javascript 307.5177ms
+2025-05-18 18:09:46.676 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7028/lib/bootstrap/dist/js/bootstrap.bundle.min.js - 200 80764 text/javascript 319.671ms
+2025-05-18 18:09:46.696 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7028/lib/bootstrap/dist/css/bootstrap.min.css - 200 232871 text/css 339.3829ms
+2025-05-18 18:09:46.721 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7028/lib/jquery/dist/jquery.min.js - 200 87576 text/javascript 365.0294ms
