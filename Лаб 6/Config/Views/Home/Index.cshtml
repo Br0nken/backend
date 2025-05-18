@@ -1,0 +1,32 @@
+﻿@{
+    ViewData["Title"] = "Configuration Demo";
+}
+
+<div class="container mt-5">
+    <h1>@ViewData["Title"]</h1>
+
+    <div class="card mt-4">
+        <div class="card-header">
+            Current Configuration
+        </div>
+        <div class="card-body">
+            <ul class="list-group">
+                <li class="list-group-item">
+                    <strong>Test Setting from ENV:</strong> @ViewBag.TestSetting
+                </li>
+                <li class="list-group-item">
+                    <strong>App Name:</strong> @ViewBag.AppName
+                </li>
+                <li class="list-group-item">
+                    <strong>Environment:</strong> <span class="badge bg-info">@ViewBag.Environment</span>
+                </li>
+                <li class="list-group-item">
+                    <strong>Debug Mode:</strong> @(ViewBag.DebugMode ? "Enabled" : "Disabled")
+                </li>
+                <li class="list-group-item">
+                    <strong>DB Connection:</strong> @ViewBag.DbConnection
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
