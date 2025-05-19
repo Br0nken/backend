@@ -1,0 +1,39 @@
+﻿@{
+    ViewData["Title"] = "Главная страница";
+}
+
+<div>
+    <h2>Демонстрация работы CSS и JavaScript</h2>
+
+    <div class="mt-4">
+        <button class="btn btn-primary" data-tooltip="Это основная кнопка">Основная кнопка</button>
+        <button class="btn btn-danger ml-2" data-tooltip="Это опасная кнопка">Опасная кнопка</button>
+    </div>
+
+    <div class="mt-4">
+        <button class="btn" data-scroll-to="#section1">Перейти к разделу 1</button>
+        <button class="btn" data-scroll-to="#section2">Перейти к разделу 2</button>
+    </div>
+
+    <div id="section1" class="section mt-5" style="height: 500px; background: #eee; padding: 20px;">
+        <h3>Раздел 1</h3>
+        <p>Прокрутка к этому разделу работает плавно</p>
+    </div>
+
+    <div id="section2" class="section mt-5" style="height: 500px; background: #ddd; padding: 20px;">
+        <h3>Раздел 2</h3>
+        <p>Прокрутка к этому разделу тоже работает плавно</p>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        // Инициализируем кнопки скролла после загрузки страницы
+        document.addEventListener('DOMContentLoaded', function() {
+            initScrollButtons();
+
+            // Пример использования функции из utils.js
+            console.log('Текущая дата:', formatDate(new Date()));
+        });
+    </script>
+}
