@@ -1,0 +1,21 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<div class="mt-5">
+    <h3>Тестирование обработки ошибок</h3>
+    <div class="d-flex flex-column gap-2">
+        <a href="/this-page-does-not-exist" class="btn btn-outline-danger">404 - Несуществующая страница</a>
+        <a href="/TestError/Generate404" class="btn btn-outline-danger">404 - Страница не найдена</a>
+        <a href="/TestError/Generate401" class="btn btn-outline-danger">401 - Неавторизованный доступ</a>
+        <a href="/TestError/Generate403" class="btn btn-outline-danger">403 - Доступ запрещен</a>
+        <a href="/TestError/Generate500" class="btn btn-outline-danger">500 - Внутренняя ошибка сервера</a>
+        <a href="/TestError/GenerateDbError" class="btn btn-outline-danger">Ошибка базы данных</a>
+        <a href="/TestError/GenerateIoError" class="btn btn-outline-danger">Ошибка ввода-вывода</a>
+    </div>
+</div>

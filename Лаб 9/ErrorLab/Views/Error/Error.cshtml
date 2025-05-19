@@ -1,0 +1,57 @@
+﻿@{
+    ViewData["Title"] = "Ошибка";
+}
+
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-md-8 offset-md-2">
+            <div class="card">
+                <div class="card-header bg-danger text-white">
+                    <h1 class="card-title">Ошибка @ViewBag.ErrorCode</h1>
+                </div>
+                <div class="card-body">
+                    <h3 class="text-danger">@ViewBag.ErrorMessage</h3>
+
+                    @if (ViewBag.ErrorCode == 404)
+                    {
+                        <div class="alert alert-warning mt-3">
+                            <p>Запрашиваемая страница не найдена. Пожалуйста, проверьте URL адрес или вернитесь на главную страницу.</p>
+                        </div>
+                    }
+                    else if (ViewBag.ErrorCode == 401)
+                    {
+                        <div class="alert alert-warning mt-3">
+                            <p>Для доступа к этой странице необходимо авторизоваться.</p>
+                        </div>
+                    }
+                    else if (ViewBag.ErrorCode == 403)
+                    {
+                        <div class="alert alert-warning mt-3">
+                            <p>У вас недостаточно прав для доступа к этой странице.</p>
+                        </div>
+                    }
+                    else
+                    {
+                        <div class="alert alert-danger mt-3">
+                            <p>При обработке вашего запроса произошла ошибка. Пожалуйста, попробуйте позже.</p>
+                        </div>
+                    }
+
+                    <div class="mt-4">
+                        <a href="@Url.Action("Index", "Home")" class="btn btn-primary">
+                            <i class="fas fa-home"></i> Вернуться на главную
+                        </a>
+                    </div>
+
+                    @if (User.IsInRole("Admin") && ViewBag.ErrorDetail != null)
+                    {
+                        <div class="mt-4 p-3 bg-light rounded">
+                            <h4>Детали ошибки (только для администратора)</h4>
+                            <pre class="text-muted">@ViewBag.ErrorDetail</pre>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
