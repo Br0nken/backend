@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Тест мониторинга";
+}
+
+<div class="container mt-4">
+    <h1 class="mb-4">Тестовая страница мониторинга</h1>
+
+    <div class="card mb-4">
+        <div class="card-body">
+            <h5 class="card-title">Тестовые действия</h5>
+            <div class="btn-group">
+                <a href="/monitoring/generateerror" class="btn btn-danger">Сгенерировать ошибку</a>
+                <a href="/monitoring/performancetest" class="btn btn-warning">Тест производительности</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="card">
+        <div class="card-body">
+            <h5 class="card-title">Информация</h5>
+            <div class="alert alert-info">
+                <p>Откройте Application Insights в Azure Portal чтобы увидеть метрики.</p>
+                <p>Текущее количество запросов: <strong>@ViewData["RequestCount"]</strong></p>
+            </div>
+        </div>
+    </div>
+</div>

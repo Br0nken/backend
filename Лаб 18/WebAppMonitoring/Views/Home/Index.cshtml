@@ -1,0 +1,46 @@
+﻿@{
+    ViewData["Title"] = "Мониторинг приложения";
+}
+
+<div class="container mt-4">
+    <h1 class="mb-4">Тест системы мониторинга</h1>
+
+    <div class="card mb-4">
+        <div class="card-body">
+            <h5 class="card-title">Действия</h5>
+            <div class="d-flex gap-2">
+                <a href="/monitoring/test" class="btn btn-primary">Тестовый запрос</a>
+                <a href="/monitoring/generate-error" class="btn btn-danger">Сгенерировать ошибку</a>
+                <a href="/metrics-dashboard.html" class="btn btn-success">
+                    <i class="bi bi-speedometer2"></i> Дашборд
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <div class="card">
+        <div class="card-body">
+            <h5 class="card-title">Текущая статистика</h5>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="alert alert-info">
+                        <h4>@AppMetrics.TotalRequests</h4>
+                        <p>Всего запросов</p>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="alert alert-warning">
+                        <h4>@AppMetrics.TotalErrors</h4>
+                        <p>Ошибок</p>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="alert alert-primary">
+                        <h4>@(AppMetrics.ResponseTimes.Count > 0 ? Math.Round(AppMetrics.ResponseTimes.Average(), 2) : 0) мс</h4>
+                        <p>Среднее время</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

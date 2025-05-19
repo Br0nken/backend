@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danil\\source\\repos\\WebAppMonitoring\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7579294B-46B1-4652-AF3F-3518945777B5}|WebAppMonitoring\\WebAppMonitoring.csproj|c:\\users\\danil\\source\\repos\\webappmonitoring\\webappmonitoring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7579294B-46B1-4652-AF3F-3518945777B5}|WebAppMonitoring\\WebAppMonitoring.csproj|solutionrelative:webappmonitoring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7579294B-46B1-4652-AF3F-3518945777B5}|WebAppMonitoring\\WebAppMonitoring.csproj|c:\\users\\danil\\source\\repos\\webappmonitoring\\webappmonitoring\\wwwroot\\error-page.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7579294B-46B1-4652-AF3F-3518945777B5}|WebAppMonitoring\\WebAppMonitoring.csproj|solutionrelative:webappmonitoring\\wwwroot\\error-page.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7579294B-46B1-4652-AF3F-3518945777B5}|WebAppMonitoring\\WebAppMonitoring.csproj|c:\\users\\danil\\source\\repos\\webappmonitoring\\webappmonitoring\\wwwroot\\test-result.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7579294B-46B1-4652-AF3F-3518945777B5}|WebAppMonitoring\\WebAppMonitoring.csproj|solutionrelative:webappmonitoring\\wwwroot\\test-result.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7579294B-46B1-4652-AF3F-3518945777B5}|WebAppMonitoring\\WebAppMonitoring.csproj|c:\\users\\danil\\source\\repos\\webappmonitoring\\webappmonitoring\\wwwroot\\metrics-dashboard.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7579294B-46B1-4652-AF3F-3518945777B5}|WebAppMonitoring\\WebAppMonitoring.csproj|solutionrelative:webappmonitoring\\wwwroot\\metrics-dashboard.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7579294B-46B1-4652-AF3F-3518945777B5}|WebAppMonitoring\\WebAppMonitoring.csproj|c:\\users\\danil\\source\\repos\\webappmonitoring\\webappmonitoring\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7579294B-46B1-4652-AF3F-3518945777B5}|WebAppMonitoring\\WebAppMonitoring.csproj|solutionrelative:webappmonitoring\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7579294B-46B1-4652-AF3F-3518945777B5}|WebAppMonitoring\\WebAppMonitoring.csproj|c:\\users\\danil\\source\\repos\\webappmonitoring\\webappmonitoring\\views\\monitoring\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7579294B-46B1-4652-AF3F-3518945777B5}|WebAppMonitoring\\WebAppMonitoring.csproj|solutionrelative:webappmonitoring\\views\\monitoring\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7579294B-46B1-4652-AF3F-3518945777B5}|WebAppMonitoring\\WebAppMonitoring.csproj|c:\\users\\danil\\source\\repos\\webappmonitoring\\webappmonitoring\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7579294B-46B1-4652-AF3F-3518945777B5}|WebAppMonitoring\\WebAppMonitoring.csproj|solutionrelative:webappmonitoring\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7579294B-46B1-4652-AF3F-3518945777B5}|WebAppMonitoring\\WebAppMonitoring.csproj|c:\\users\\danil\\source\\repos\\webappmonitoring\\webappmonitoring\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7579294B-46B1-4652-AF3F-3518945777B5}|WebAppMonitoring\\WebAppMonitoring.csproj|solutionrelative:webappmonitoring\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7579294B-46B1-4652-AF3F-3518945777B5}|WebAppMonitoring\\WebAppMonitoring.csproj|c:\\users\\danil\\source\\repos\\webappmonitoring\\webappmonitoring\\views\\monitoring\\testresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7579294B-46B1-4652-AF3F-3518945777B5}|WebAppMonitoring\\WebAppMonitoring.csproj|solutionrelative:webappmonitoring\\views\\monitoring\\testresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7579294B-46B1-4652-AF3F-3518945777B5}|WebAppMonitoring\\WebAppMonitoring.csproj|c:\\users\\danil\\source\\repos\\webappmonitoring\\webappmonitoring\\controllers\\monitoringcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7579294B-46B1-4652-AF3F-3518945777B5}|WebAppMonitoring\\WebAppMonitoring.csproj|solutionrelative:webappmonitoring\\controllers\\monitoringcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7579294B-46B1-4652-AF3F-3518945777B5}|WebAppMonitoring\\WebAppMonitoring.csproj|c:\\users\\danil\\source\\repos\\webappmonitoring\\webappmonitoring\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{7579294B-46B1-4652-AF3F-3518945777B5}|WebAppMonitoring\\WebAppMonitoring.csproj|solutionrelative:webappmonitoring\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7579294B-46B1-4652-AF3F-3518945777B5}|WebAppMonitoring\\WebAppMonitoring.csproj|c:\\users\\danil\\source\\repos\\webappmonitoring\\webappmonitoring\\webappmonitoring.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7579294B-46B1-4652-AF3F-3518945777B5}|WebAppMonitoring\\WebAppMonitoring.csproj|solutionrelative:webappmonitoring\\webappmonitoring.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "error-page.html",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\WebAppMonitoring\\WebAppMonitoring\\wwwroot\\error-page.html",
+              "RelativeDocumentMoniker": "WebAppMonitoring\\wwwroot\\error-page.html",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\WebAppMonitoring\\WebAppMonitoring\\wwwroot\\error-page.html",
+              "RelativeToolTip": "WebAppMonitoring\\wwwroot\\error-page.html",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAACMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-19T23:43:28.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "test-result.html",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\WebAppMonitoring\\WebAppMonitoring\\wwwroot\\test-result.html",
+              "RelativeDocumentMoniker": "WebAppMonitoring\\wwwroot\\test-result.html",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\WebAppMonitoring\\WebAppMonitoring\\wwwroot\\test-result.html",
+              "RelativeToolTip": "WebAppMonitoring\\wwwroot\\test-result.html",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwCkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-19T23:43:09.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\WebAppMonitoring\\WebAppMonitoring\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebAppMonitoring\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\WebAppMonitoring\\WebAppMonitoring\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebAppMonitoring\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T22:59:39.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TestResult.cshtml",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\WebAppMonitoring\\WebAppMonitoring\\Views\\Monitoring\\TestResult.cshtml",
+              "RelativeDocumentMoniker": "WebAppMonitoring\\Views\\Monitoring\\TestResult.cshtml",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\WebAppMonitoring\\WebAppMonitoring\\Views\\Monitoring\\TestResult.cshtml",
+              "RelativeToolTip": "WebAppMonitoring\\Views\\Monitoring\\TestResult.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T23:13:27.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "favicon.ico - Icon [32x32, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, BMP]",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\WebAppMonitoring\\WebAppMonitoring\\wwwroot\\favicon.ico",
+              "RelativeDocumentMoniker": "WebAppMonitoring\\wwwroot\\favicon.ico",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\WebAppMonitoring\\WebAppMonitoring\\wwwroot\\favicon.ico - Icon [32x32, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, BMP]",
+              "RelativeToolTip": "WebAppMonitoring\\wwwroot\\favicon.ico - Icon [32x32, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2025-05-19T22:59:11.685Z",
+              "EditorCaption": " - Icon [32x32, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\WebAppMonitoring\\WebAppMonitoring\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebAppMonitoring\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\WebAppMonitoring\\WebAppMonitoring\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebAppMonitoring\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwC0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T22:48:36.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "metrics-dashboard.html",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\WebAppMonitoring\\WebAppMonitoring\\wwwroot\\metrics-dashboard.html",
+              "RelativeDocumentMoniker": "WebAppMonitoring\\wwwroot\\metrics-dashboard.html",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\WebAppMonitoring\\WebAppMonitoring\\wwwroot\\metrics-dashboard.html",
+              "RelativeToolTip": "WebAppMonitoring\\wwwroot\\metrics-dashboard.html",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAIwJoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-19T22:39:20.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WebAppMonitoring.csproj",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\WebAppMonitoring\\WebAppMonitoring\\WebAppMonitoring.csproj",
+              "RelativeDocumentMoniker": "WebAppMonitoring\\WebAppMonitoring.csproj",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\WebAppMonitoring\\WebAppMonitoring\\WebAppMonitoring.csproj",
+              "RelativeToolTip": "WebAppMonitoring\\WebAppMonitoring.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-19T21:50:38.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\WebAppMonitoring\\WebAppMonitoring\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAppMonitoring\\appsettings.json",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\WebAppMonitoring\\WebAppMonitoring\\appsettings.json",
+              "RelativeToolTip": "WebAppMonitoring\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-19T21:47:26.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\WebAppMonitoring\\WebAppMonitoring\\Program.cs",
+              "RelativeDocumentMoniker": "WebAppMonitoring\\Program.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\WebAppMonitoring\\WebAppMonitoring\\Program.cs",
+              "RelativeToolTip": "WebAppMonitoring\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T21:46:55.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\WebAppMonitoring\\WebAppMonitoring\\Views\\Monitoring\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebAppMonitoring\\Views\\Monitoring\\Index.cshtml",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\WebAppMonitoring\\WebAppMonitoring\\Views\\Monitoring\\Index.cshtml",
+              "RelativeToolTip": "WebAppMonitoring\\Views\\Monitoring\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T21:44:58.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MonitoringController.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\WebAppMonitoring\\WebAppMonitoring\\Controllers\\MonitoringController.cs",
+              "RelativeDocumentMoniker": "WebAppMonitoring\\Controllers\\MonitoringController.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\WebAppMonitoring\\WebAppMonitoring\\Controllers\\MonitoringController.cs",
+              "RelativeToolTip": "WebAppMonitoring\\Controllers\\MonitoringController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T21:44:20.43Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
