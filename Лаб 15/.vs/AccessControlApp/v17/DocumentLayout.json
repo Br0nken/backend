@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danil\\source\\repos\\AccessControlApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF2B69A-9D45-4EA6-9D28-0317C1C3E6A5}|AccessControlApp\\AccessControlApp.csproj|c:\\users\\danil\\source\\repos\\accesscontrolapp\\accesscontrolapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF2B69A-9D45-4EA6-9D28-0317C1C3E6A5}|AccessControlApp\\AccessControlApp.csproj|solutionrelative:accesscontrolapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF2B69A-9D45-4EA6-9D28-0317C1C3E6A5}|AccessControlApp\\AccessControlApp.csproj|c:\\users\\danil\\source\\repos\\accesscontrolapp\\accesscontrolapp\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF2B69A-9D45-4EA6-9D28-0317C1C3E6A5}|AccessControlApp\\AccessControlApp.csproj|solutionrelative:accesscontrolapp\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF2B69A-9D45-4EA6-9D28-0317C1C3E6A5}|AccessControlApp\\AccessControlApp.csproj|c:\\users\\danil\\source\\repos\\accesscontrolapp\\accesscontrolapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF2B69A-9D45-4EA6-9D28-0317C1C3E6A5}|AccessControlApp\\AccessControlApp.csproj|solutionrelative:accesscontrolapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF2B69A-9D45-4EA6-9D28-0317C1C3E6A5}|AccessControlApp\\AccessControlApp.csproj|c:\\users\\danil\\source\\repos\\accesscontrolapp\\accesscontrolapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF2B69A-9D45-4EA6-9D28-0317C1C3E6A5}|AccessControlApp\\AccessControlApp.csproj|solutionrelative:accesscontrolapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF2B69A-9D45-4EA6-9D28-0317C1C3E6A5}|AccessControlApp\\AccessControlApp.csproj|c:\\users\\danil\\source\\repos\\accesscontrolapp\\accesscontrolapp\\middleware\\rolebasedredirectmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF2B69A-9D45-4EA6-9D28-0317C1C3E6A5}|AccessControlApp\\AccessControlApp.csproj|solutionrelative:accesscontrolapp\\middleware\\rolebasedredirectmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF2B69A-9D45-4EA6-9D28-0317C1C3E6A5}|AccessControlApp\\AccessControlApp.csproj|c:\\users\\danil\\source\\repos\\accesscontrolapp\\accesscontrolapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5FF2B69A-9D45-4EA6-9D28-0317C1C3E6A5}|AccessControlApp\\AccessControlApp.csproj|solutionrelative:accesscontrolapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF2B69A-9D45-4EA6-9D28-0317C1C3E6A5}|AccessControlApp\\AccessControlApp.csproj|c:\\users\\danil\\source\\repos\\accesscontrolapp\\accesscontrolapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF2B69A-9D45-4EA6-9D28-0317C1C3E6A5}|AccessControlApp\\AccessControlApp.csproj|solutionrelative:accesscontrolapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF2B69A-9D45-4EA6-9D28-0317C1C3E6A5}|AccessControlApp\\AccessControlApp.csproj|c:\\users\\danil\\source\\repos\\accesscontrolapp\\accesscontrolapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FF2B69A-9D45-4EA6-9D28-0317C1C3E6A5}|AccessControlApp\\AccessControlApp.csproj|solutionrelative:accesscontrolapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF2B69A-9D45-4EA6-9D28-0317C1C3E6A5}|AccessControlApp\\AccessControlApp.csproj|c:\\users\\danil\\source\\repos\\accesscontrolapp\\accesscontrolapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FF2B69A-9D45-4EA6-9D28-0317C1C3E6A5}|AccessControlApp\\AccessControlApp.csproj|solutionrelative:accesscontrolapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF2B69A-9D45-4EA6-9D28-0317C1C3E6A5}|AccessControlApp\\AccessControlApp.csproj|c:\\users\\danil\\source\\repos\\accesscontrolapp\\accesscontrolapp\\views\\home\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FF2B69A-9D45-4EA6-9D28-0317C1C3E6A5}|AccessControlApp\\AccessControlApp.csproj|solutionrelative:accesscontrolapp\\views\\home\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF2B69A-9D45-4EA6-9D28-0317C1C3E6A5}|AccessControlApp\\AccessControlApp.csproj|c:\\users\\danil\\source\\repos\\accesscontrolapp\\accesscontrolapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FF2B69A-9D45-4EA6-9D28-0317C1C3E6A5}|AccessControlApp\\AccessControlApp.csproj|solutionrelative:accesscontrolapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF2B69A-9D45-4EA6-9D28-0317C1C3E6A5}|AccessControlApp\\AccessControlApp.csproj|c:\\users\\danil\\source\\repos\\accesscontrolapp\\accesscontrolapp\\views\\manager\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FF2B69A-9D45-4EA6-9D28-0317C1C3E6A5}|AccessControlApp\\AccessControlApp.csproj|solutionrelative:accesscontrolapp\\views\\manager\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF2B69A-9D45-4EA6-9D28-0317C1C3E6A5}|AccessControlApp\\AccessControlApp.csproj|c:\\users\\danil\\source\\repos\\accesscontrolapp\\accesscontrolapp\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FF2B69A-9D45-4EA6-9D28-0317C1C3E6A5}|AccessControlApp\\AccessControlApp.csproj|solutionrelative:accesscontrolapp\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\AccessControlApp\\AccessControlApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "AccessControlApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\AccessControlApp\\AccessControlApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "AccessControlApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T18:34:25.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\AccessControlApp\\AccessControlApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AccessControlApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\AccessControlApp\\AccessControlApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AccessControlApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowDIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T18:17:39.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\AccessControlApp\\AccessControlApp\\Views\\Manager\\Index.cshtml",
+              "RelativeDocumentMoniker": "AccessControlApp\\Views\\Manager\\Index.cshtml",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\AccessControlApp\\AccessControlApp\\Views\\Manager\\Index.cshtml",
+              "RelativeToolTip": "AccessControlApp\\Views\\Manager\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T18:17:27.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\AccessControlApp\\AccessControlApp\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "AccessControlApp\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\AccessControlApp\\AccessControlApp\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "AccessControlApp\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T18:17:01.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\AccessControlApp\\AccessControlApp\\Views\\Home\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "AccessControlApp\\Views\\Home\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\AccessControlApp\\AccessControlApp\\Views\\Home\\AccessDenied.cshtml",
+              "RelativeToolTip": "AccessControlApp\\Views\\Home\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T18:16:36.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\AccessControlApp\\AccessControlApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AccessControlApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\AccessControlApp\\AccessControlApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AccessControlApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T18:16:23.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManagerController.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\AccessControlApp\\AccessControlApp\\Controllers\\ManagerController.cs",
+              "RelativeDocumentMoniker": "AccessControlApp\\Controllers\\ManagerController.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\AccessControlApp\\AccessControlApp\\Controllers\\ManagerController.cs",
+              "RelativeToolTip": "AccessControlApp\\Controllers\\ManagerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T18:16:07.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\AccessControlApp\\AccessControlApp\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "AccessControlApp\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\AccessControlApp\\AccessControlApp\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "AccessControlApp\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T18:15:52.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\AccessControlApp\\AccessControlApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AccessControlApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\AccessControlApp\\AccessControlApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AccessControlApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T18:15:34.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoleBasedRedirectMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\AccessControlApp\\AccessControlApp\\Middleware\\RoleBasedRedirectMiddleware.cs",
+              "RelativeDocumentMoniker": "AccessControlApp\\Middleware\\RoleBasedRedirectMiddleware.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\AccessControlApp\\AccessControlApp\\Middleware\\RoleBasedRedirectMiddleware.cs",
+              "RelativeToolTip": "AccessControlApp\\Middleware\\RoleBasedRedirectMiddleware.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T18:15:22.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\AccessControlApp\\AccessControlApp\\Program.cs",
+              "RelativeDocumentMoniker": "AccessControlApp\\Program.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\AccessControlApp\\AccessControlApp\\Program.cs",
+              "RelativeToolTip": "AccessControlApp\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T18:14:56.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\AccessControlApp\\AccessControlApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "AccessControlApp\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\AccessControlApp\\AccessControlApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "AccessControlApp\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T18:12:12.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\AccessControlApp\\AccessControlApp\\appsettings.json",
+              "RelativeDocumentMoniker": "AccessControlApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\AccessControlApp\\AccessControlApp\\appsettings.json",
+              "RelativeToolTip": "AccessControlApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-19T18:11:44.068Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
